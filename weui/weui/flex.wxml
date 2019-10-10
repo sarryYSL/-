@@ -1,0 +1,16 @@
+<!--weui/weui/flex.wxml-->
+page  
+<view>weui-flex</view>
+<view class="weui-flex">
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+</view>
+<view class="weui-flex">
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+</view>
+<view class="weui-flex">
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+  <view class="weui-flex__item"><view class="placeholder">ww</view></view>
+</view>

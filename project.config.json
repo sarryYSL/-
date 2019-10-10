@@ -1,0 +1,83 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.8.3",
+	"appid": "wx4721a2c8e60fc326",
+	"projectname": "weui-master",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 4,
+			"list": [
+				{
+					"id": -1,
+					"name": "example/flex",
+					"pathName": "example/flex/flex",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "weui/weui/flex",
+					"pathName": "weui/weui/flex",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "example/index/grid",
+					"pathName": "example/index/grid",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "example/grid",
+					"pathName": "example/grid",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "example/grid/grid",
+					"pathName": "example/grid/grid",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
